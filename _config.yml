@@ -1,7 +1,7 @@
 # Site settings
 title: TBD
 SEOTitle: Wentai's Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/BG_Wentai.jpeg
 email: cwentai@163
 description: "知识就是力量"
 keyword: "Artificial Intelligience, Machine Learning, Information and Communication"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/ChenWentai/ChenWentai.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/Wentai——profile.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
